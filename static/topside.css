@@ -1,0 +1,12 @@
+.card-body {
+    padding: 20px 15px;
+}
+.card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+.info-marquee {
+    font-size: 18px;
+    font-weight: 600;
+    color: #007bff;
+}
